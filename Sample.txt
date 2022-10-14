@@ -1,4 +1,2 @@
 "Learning Jenkins Installation 
 Steps and Plugins
-Run the WAR file and created administrator user
-"
